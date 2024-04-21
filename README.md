@@ -1,9 +1,11 @@
 # shrinkcircle
 
-# 基本的な機能/使い方
+This package implementing an algorithm where there is a unit circle, and the circle contracts towards a point within the circle.
 
-収縮する様子のアニメーション
+![anim_sample1.gif](img/anim_sample1.gif)![anim_sample2.gif](img/anim_sample2.gif)
 
+# Usage
+WIP
 
-# 応用的な使い方
-Apexのリングのようなものを描ける
+# Advanced Usage
+WIP
